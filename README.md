@@ -48,6 +48,7 @@ AI技术自动检查拼写和语法错误，提供修改建议
   - 中文辅助修正与降重
     - 写作猫 [https://xiezuocat.com/](https://xiezuocat.com/) 
     - get写作 [https://getgetai.com/](https://getgetai.com/?flag=welcome)
+    - 腾讯文档 [https://docs.qq.com/](https://docs.qq.com/doc/BsSft12Cgj1c4ewe9141c4Pq1MNO7w1Xq37X3)
   - 英文语法校正
     - 微软爱写作 [https://aimwriting.mtutor.engkoo.com/](https://aimwriting.mtutor.engkoo.com/) 
     - spell-checker [https://www.reverso.net/spell-checker/english-spelling-grammar/](https://www.reverso.net/spell-checker/english-spelling-grammar/)
@@ -92,7 +93,6 @@ AI技术自动检查拼写和语法错误，提供修改建议
 # PDF无损导出
 
 - Adobe Acrobat DC（打印论文时避免格式错乱，推荐PDF，word自带PDF导出会压缩JPG与PNG等图片格式，导致打印质量下降）
-
 
 
 
